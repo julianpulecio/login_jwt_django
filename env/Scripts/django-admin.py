@@ -1,4 +1,4 @@
-#!c:\users\krono\python\entornos\env\scripts\python.exe
+#!c:\users\krono\python\proyectos\login_jwt_django\env\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
